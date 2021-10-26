@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Contacty</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="permission_granted">Permission Granted</string>
+
+    <string name="permission_denied">Permission Denied</string>
+
+    <string name="permission_denied_forcefully">Permission Denied Forcefully</string>
+</resources>
